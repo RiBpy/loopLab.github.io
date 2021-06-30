@@ -1,0 +1,73 @@
+body {
+  background: #333;
+  color: #fff; }
+
+.navbar {
+  background: black;
+  opacity: .7;
+  border-bottom: 3px solid #0082dd; }
+
+ul li a {
+  font-size: 120%; }
+
+.col-md-4 button {
+  font-size: 120%; }
+
+#home-section {
+  background: url(../img/spice.jpg) no-repeat center top;
+  background-size: cover;
+  min-height: 700px;
+  background-attachment: fixed; }
+  #home-section .dark-overlay {
+    background: rgba(0, 0, 0, 0.7);
+    min-height: 700px; }
+  #home-section .fa {
+    background: #fff;
+    color: #0082dd;
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 5px; }
+  #home-section .card-form {
+    opacity: .8; }
+
+.home-inner {
+  padding-top: 150px;
+  padding-bottom: 50px; }
+
+#explore-main-section .fa {
+  background: #333;
+  color: #fff;
+  font-size: 30px;
+  border-radius: 5px;
+  padding: 4px; }
+
+#explore-main-section img {
+  margin-top: -5%; }
+
+#explore-main-section .side-section {
+  margin-top: 120px; }
+
+#create-main-section .fa {
+  background: #fff;
+  color: #333;
+  font-size: 30px;
+  border-radius: 5px;
+  padding: 4px; }
+
+#share-head-section {
+  box-shadow: 0px 4px 4px #350303; }
+
+#share-main-section .fa {
+  background: #333;
+  color: #fff;
+  font-size: 30px;
+  border-radius: 5px;
+  padding: 4px; }
+
+.modal-content {
+  background: url(../img/plants.jpg) no-repeat;
+  background-position: center;
+  background-size: cover; }
+  .modal-content .form-control {
+    background: #000;
+    opacity: .7; }
